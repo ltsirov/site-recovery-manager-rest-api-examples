@@ -5,7 +5,7 @@ Examples (code snippets) of working REST API requests.
 ## 1. Prerequisites
 REST API gateway Open API spec file in one of the formats - .json or .yaml
 
-REST API client generator.
+REST API client generator
 
 Online option - https://editor.swagger.io/
 
